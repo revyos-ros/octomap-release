@@ -133,8 +133,8 @@ tracks:
     - git-bloom-generate -y rosdebian --prefix release/:{ros_distro} :{ros_distro}
       -i :{release_inc} --os-name debian
     devel_branch: devel
-    last_release: v1.9.8
-    last_version: 1.9.8
+    last_release: v1.10.0
+    last_version: 1.10.0
     name: octomap
     patches: ' '
     release_inc: '1'
