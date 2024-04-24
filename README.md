@@ -1,3 +1,29 @@
+## octomap (humble) - 1.10.0-1
+
+The packages in the `octomap` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r humble octomap` on `Wed, 24 Apr 2024 06:24:32 -0000`
+
+These packages were released:
+- `dynamic_edt_3d`
+- `octomap`
+- `octovis`
+
+Version of package(s) in repository `octomap`:
+
+- upstream repository: https://github.com/OctoMap/octomap.git
+- release repository: https://github.com/revyos-ros/octomap-release.git
+- rosdistro version: `1.9.8-1`
+- old version: `1.9.8-1`
+- new version: `1.10.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## octomap (rolling) - 1.10.0-3
 
 The packages in the `octomap` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --track rolling --rosdistro rolling octomap` on `Wed, 20 Mar 2024 12:03:45 -0000`
